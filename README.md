@@ -1,6 +1,8 @@
 # EDA-ChurnDataAnalysis-Python
 This project analyzes customer churn using Python, Pandas, Matplotlib, and Seaborn. The main objective is to understand customer behavior and identify service-related and account-related factors associated with customers leaving the company.
 <img width="489" height="489" alt="image" src="https://github.com/user-attachments/assets/5618384c-ac46-4380-a14a-ec9325a94b48" />
+
+
 Key observations
 1. PhoneService: Most customers have phone service. Both churners and non-churners are more numerous among customers with phone service.
 
